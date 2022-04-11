@@ -1,0 +1,1 @@
+# current version of Data Migration Assistant is missing stretch advisor 

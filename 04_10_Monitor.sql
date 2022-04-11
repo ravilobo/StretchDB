@@ -1,0 +1,1 @@
+-- from SSMS right click DB -> Stretch -> Monitor 

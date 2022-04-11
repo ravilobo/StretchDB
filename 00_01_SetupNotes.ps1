@@ -1,0 +1,1 @@
+# Open the code base in ADS ADMIN mode 
