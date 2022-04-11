@@ -1,2 +1,2 @@
-# StretchDB
-# Demo files
+# Stretch database
+## Demo files
